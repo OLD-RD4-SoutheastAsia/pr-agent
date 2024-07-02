@@ -23,6 +23,10 @@ output_relevant_configurations=false
 large_patch_policy = "clip" # "clip", "skip"
 is_auto_command=false
 extra_instructions = "用繁體中文回答"
+language = "zh-TW"
+
+[pr_agent]
+language = "zh-TW"
 
 [pr_reviewer] # /review #
 # enable/disable features
