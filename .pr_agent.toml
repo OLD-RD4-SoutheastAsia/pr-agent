@@ -4,3 +4,6 @@ extra_instructions="""\
 """
 enable_review_labels_effort = true
 enable_auto_approval = true
+
+[model]
+model = "sonnet4.5"
